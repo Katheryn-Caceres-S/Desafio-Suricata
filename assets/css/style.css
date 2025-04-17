@@ -21,8 +21,17 @@ body {
     font-family: Open Sans, sans-serif;
 
 }
+footer {
+    background-color: #E83E8C;
+    text-align: center;
+    padding-bottom: 20px;
+}
 
-.pagos {
-    background-color: pink;
-    
+.forma_pago {
+    background-color: aqua;
+    width: 100%;
+    height: auto;
+}
+.navbar-color {
+    background-color: #E83E8C;
 }
