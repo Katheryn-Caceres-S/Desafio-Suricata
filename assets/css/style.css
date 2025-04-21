@@ -5,7 +5,7 @@
     font-style: normal;
     font-variation-settings:
       "wdth" 100;
-  }
+}
 
 *{
     box-sizing: border-box;
@@ -27,11 +27,6 @@ footer {
     padding-bottom: 20px;
 }
 
-.forma_pago {
-    background-color: aqua;
-    width: 100%;
-    height: auto;
-}
 .navbar-color {
     background-color: #E83E8C;
 }
